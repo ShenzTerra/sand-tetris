@@ -1,0 +1,4 @@
+{
+  "name": "Sand Tetris",
+  "description": "A physics-based puzzle game where blocks turn into sand upon landing. Connect same-colored sand from left to right to clear it."
+}
